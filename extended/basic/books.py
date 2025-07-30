@@ -1,7 +1,7 @@
 import uvicorn
 from fastapi import Body,FastAPI
 
-app = FastAPI()
+#app = FastAPI()
 
 ### REquest using Get method to fetch data
 
